@@ -29,7 +29,10 @@ docker-compose up -d
 ```
 ##### Step 4
 You can check the status of your running containers to ensure everything is running smoothly. 
-You can open Docker Desktop or use the following command:
+You can open Docker Desktop:
+<img width="1179" alt="Снимок экрана 2023-10-23 в 13 44 19" src="https://github.com/MironovaSveta/fastapi_quiz/assets/104065509/735477c5-7dba-4b55-9969-0fc1aabfab22">
+
+Or use the following command:
 ```bash
 docker-compose ps
 ```
